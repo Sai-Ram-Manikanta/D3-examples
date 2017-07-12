@@ -9,9 +9,6 @@
 
 <body>
 
-
-<h2><p style= "color:green">one on one meeting</p2><h2>
-<h3>date: 5/17/2017; Wed<h3>
 <h1><center><p style="color:brown">Average age of tickets in each assigned group</p><center><h1>
 <script>
 
@@ -32,7 +29,7 @@ var visualization = d3.select("body")               // definition of visualizati
 						.attr("transform", "translate(630, 300)");
 						
 		var arc = d3.svg.arc()
-					.innerRadius(200)
+					.innerRadius(0)
 					.outerRadius(r);
 					
 		var pie = d3.layout.pie()
