@@ -57,7 +57,7 @@ var g = svg.append("g")
     .attr("transform", "translate(100,20)");
 
 
-d3.json("https://sairammanikanta.github.io/d3-examples/lastsixmonthsdata.json", function(error, data) {
+d3.json("https://sai-ram-manikanta.github.io/d3-examples/lastsixmonthsdata.json", function(error, data) {
     if (error) throw error;
 
     x.domain(data.map(function(d) { return d.IDC; }));
