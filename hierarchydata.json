@@ -1,9 +1,8 @@
-
  {
- "name": "Alka",
+ "name": "chancellor",
  "children": [
  {
- "name":"Abdul",
+ "name":"vice-chancellor",
  "children":[
  {"name":"Ashok",
  "children":[
@@ -16,18 +15,18 @@
  {"name":"Chandrika"}
  ]
  },
- 
+
  {"name": "Himanshu",
  "children":[
  {"name":"Harika"}
  ]
- 
- 
+
+
  }
  ]
  },
  {
- "name":"Lavanya",
+ "name":"Deputy vice-chancellor(Resarch)",
  "children":[
  {"name":"a" },
  {"name": "b"}
@@ -35,18 +34,21 @@
  },
 
 {
- "name":"deepak",
+ "name":"Deputy vice-chancellor(students)",
  "children":[
  {"name":"a" },
  {"name": "b"}
  ]
  },
  {
- "name":"vaishali",
+ "name":"pro vice-chancellor(international)",
  "children":[
  {"name":"a" },
  {"name": "b"}
  ]
- }
- ]
- }
+},
+{
+  "name":"vice-president(corporate services)"
+}
+]
+}
