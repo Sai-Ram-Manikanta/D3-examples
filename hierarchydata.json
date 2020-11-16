@@ -1,8 +1,8 @@
  {
- "name": "chancellor",
+ "name": "Leap Sheep",
  "children": [
  {
- "name":"vice-chancellor",
+ "name":"Business Operation",
  "children":[
  {"name":"Ashok",
  "children":[
